@@ -147,7 +147,7 @@ body {
 	height: 206px;
 	background: #C4C4C4;
 	margin: 25px;
-	background-image: url(img/Rectangle.png);
+	background-image: url(Rectangle.png);
 	background-repeat: no-repeat;
 	background-position: center;
 	font-style: normal;
@@ -179,7 +179,7 @@ body {
 	height: 359px;
 	background: #FFFFFF;
 	border-radius: 5px;
-	background-image: url(img/Rectangle.png);
+	background-image: url(Rectangle.png);
 	background-repeat: no-repeat;
 	background-size: 198px 190px;
 
